@@ -1,5 +1,35 @@
 {
+    "name": "ibautista007/composer_php",
+    "description": "PHP test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ibautista007",
+            "email": "anime.mxa@gmail.com"
+        }
+    ],
+
+
     "require": {
         "minube/geo-timezone": "^1.0"
+    },
+
+    "require-dev": {
+
+        "beyondcode/laravel-dump-server": "^1.0",
+
+        "filp/whoops": "^2.0",
+
+        "fzaninotto/faker": "^1.4",
+
+        "mockery/mockery": "^1.0",
+
+        "nunomaduro/collision": "^2.0",
+
+        "phpunit/phpunit": "^5.7"
+   
     }
+
+
 }
