@@ -1,0 +1,5 @@
+{
+    "require": {
+        "minube/geo-timezone": "^1.0"
+    }
+}
